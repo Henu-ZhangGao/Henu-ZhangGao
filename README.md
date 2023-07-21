@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Henu-ZhangGao
-- 👀 I’m interested in Federated Learning
-- 🌱 I’m currently learning a couple of design patterns
-- 💞️ I’m looking to collaborate on how to implement Federated Learning about health-care
+### 👋 I’m @Henu-ZhangGao
+
+I'm a ordinary C++ engingeer, a UI designer.😶
+
+- **What I'm learning?**
+
+ Federated Learning
+
+- **Which status I'm now**
+
+Working👩‍💻
+
+- **What I have done**
+
+Nothing, just few Wechat miniprograms or command line utilities.🐱‍💻
+
 
 <!---
 Henu-ZhangGao/Henu-ZhangGao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![debugging](https://i.imgur.com/vhQLQBn.png)
