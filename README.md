@@ -2,7 +2,7 @@
   <img src="https://img.shields.io/badge/ZhangGao-github-blue?logo=github" style="width:10%;">
  </div>
 
-[![hello-github](https://raw.githubusercontent.com/Henu-ZhangGao/Henu-ZhangGao/blob/main/assets/zhanggao.svg)](https://www.calligrapher.ai/)
+[![hello-github](https://raw.githubusercontent.com/Henu-ZhangGao/Henu-ZhangGao/main/assets/zhanggao.svg)](https://www.calligrapher.ai/)
 
 ## I'm ZhangGao :trollface:
 
