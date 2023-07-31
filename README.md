@@ -9,7 +9,7 @@
 <details><summary>Who I am?</summary>
 <p>
  
-**I'm a ordinary C++ engingeer, a UI designer.😶**
+**I'm a ordinary C++ engingeer, a UI designer.** :+1:
 </p>
 </details>
 
@@ -39,9 +39,22 @@ Nothing, just few Wechat miniprograms or command line utilities.🐱‍💻
  
  ### Here it are, Github stats
  
-[![zhanggao's GitHub stats](https://github-readme-stats.vercel.app/api?username=henu-zhanggao)](https://github.com/henu-zhanggao)
+[![zhanggao's GitHub stats](https://github-readme-stats.vercel.app/api?username=henu-zhanggao&show_icons=true&theme=synthwave)](https://github.com/henu-zhanggao)
 
 </div>
+
+<div align="center">
+
+### There are repos I wanna recommend for you to collaborate togather.
+
+|Repo|Time|
+|---|---|
+|[![zhanggao's GitHub repos](https://github-readme-stats.vercel.app/api/pin?username=henu-zhanggao&repo=ZhangGao)](https://github.com/Henu-ZhangGao/ZhangGao)|2022-03|
+
+</div>
+
+
+
 <!---
 Henu-ZhangGao/Henu-ZhangGao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
